@@ -7,7 +7,7 @@ const persona = {
   } 
 };
 
-// Aplica destructuración aquí
+// Aplica destructuracion aqui
 const { nombre, edad, direccion: { ciudad } } = persona;
 
 // Imprime el mensaje
